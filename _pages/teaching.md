@@ -1,12 +1,40 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /skills/
+title: courses & skills
+description: Programming Languages, Libraries, Maths, and Courses that I've taken 
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<b> Mathematics <b>
+* Ito & Stratanovich Calculus 
+* Measure Theoretic Probability Theory
+* Hamilton-Jacobi-Bellman PDEs & Dynamic Programming 
 
-Organize your courses by years, topics, or universities, however you like!
+
+<b> Applied Math <b>
+* Market-Making formulated as a Stochastic Optimal Control Problem
+* Maximum Likelihood Estimation for Stochastic Processes & Distributions
+* Neural Networks
+
+<b> Programming Languages <b>
+* Fluent in Python, Java
+* Have worked with R, Mathematica, C++, OCaml
+
+<b> Libraries <b>
+* Numpy 
+* PyTorch
+* Pandas / Polars
+
+
+<b> Courses <b>
+* Honors Real Analysis
+* Advanced Linear Algebra
+* Manifolds & Differential Forms
+* Abstract Algebra
+* Machine Learning 
+* Data Structures & Algorithms
+* Functional Programming 
+
+
