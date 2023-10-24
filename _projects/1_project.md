@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Market Making
-description: a project with a background image
+description: Calibrating HFT models
 img: assets/img/Unknown.jpeg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.
