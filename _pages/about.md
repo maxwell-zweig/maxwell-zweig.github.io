@@ -14,7 +14,7 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 I am a junior majoring in Mathematics with a concentration in mathematics and a minor in computer science. On this website you will find projects that I am/have worked on. My research interests include:
