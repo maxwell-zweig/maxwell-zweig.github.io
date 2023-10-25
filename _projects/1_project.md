@@ -5,6 +5,7 @@ description: Calibrating HFT models
 img: assets/img/Unknown.jpeg
 importance: 1
 category: work
+redirect: /assets/pdf/Trading Writeup.pdf
 ---
 
 Every project has a beautiful feature showcase page.

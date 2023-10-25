@@ -24,5 +24,7 @@ I am a junior majoring in Mathematics with a concentration in mathematics and a 
 
 I am particularly interested in applications to the financial markets and environment and sustainability, and am looking for an internship and/or research for summer 2024.
 
+Please note: this website is not complete, I have a large amount of projects/research that I am hastily typing up.
+
 
 

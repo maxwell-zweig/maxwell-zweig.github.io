@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Reachable Sets
+description: Computing reachable-sets for a chaser satellite under various different assumptions
 img: assets/img/3.jpg
 importance: 2
 category: work

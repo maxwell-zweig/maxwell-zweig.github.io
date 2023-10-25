@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Neural Networks & PDEs
+description: solving PDEs w/ surrogate & Monte-Carlo neural network based approach
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
