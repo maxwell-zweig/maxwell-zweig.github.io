@@ -5,7 +5,6 @@ description: Computing reachable-sets for a chaser satellite under various diffe
 img: assets/img/3.jpg
 importance: 2
 category: work
-redirect: /assets/pdf/idea.pdf
 
 ---
 
