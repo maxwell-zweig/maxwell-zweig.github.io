@@ -6,4 +6,4 @@ description: some of my work modeling how liquidity changes as a function the mi
 redirect: /assets/pdf/liquidity_post.pdf
 ---
 
-.
+bruh.
