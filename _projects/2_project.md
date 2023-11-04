@@ -6,7 +6,7 @@ img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
-redirect: /assets/pdf/drp copy.pdf
+redirect: /assets/pdf/drp.pdf
 
 ---
 
