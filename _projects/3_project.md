@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Neural Networks & PDEs
-description: solving PDEs w/ surrogate & Monte-Carlo neural network based approach
+description: solving PDEs w/ surrogate & Monte-Carlo neural network based approach. Potential WIP paper.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3

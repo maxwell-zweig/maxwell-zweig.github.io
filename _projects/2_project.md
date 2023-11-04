@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Market Making
-description: Calibrating HFT models. Potential WIP paper.
-img: assets/img/Unknown.jpeg
-importance: 1
+title: Feynman-Kac Formula & Applications
+description: Work for 2023 Math Directed Reading Program advised by Gabriel Rioux.
+img: assets/img/7.jpg
+redirect: https://unsplash.com
+importance: 3
 category: work
-redirect: /assets/pdf/Trading Writeup.pdf
+redirect: /assets/pdf/drp.pdf
+
 ---
 
 Every project has a beautiful feature showcase page.
